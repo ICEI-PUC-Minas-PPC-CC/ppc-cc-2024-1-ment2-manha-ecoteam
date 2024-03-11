@@ -19,14 +19,8 @@ Em relação à saúde pública, o descarte incorreto de lixo pode causar proble
 
 ## Objetivos
 
-= Conscientizar criancas e adolencentes sobre disperdicio com palestras 
+Conscientizar as crianças e adolescentes sobre o descarte correto do lixo, por meio de uma palestra que será ministrada pelo grupo e também será feito um site contendo os horários de coleta de lixo e agendamento de descarte na cidade de Poços de Caldas.
 
-= Informar sobre descarte correto de lixo
-
-= Mostrar as consequencias sobre o excesso de lixo no mundo
-
-= Reutilizar e reaproveitar os lixos eletronicos como celulares, bateria, coisas do tipo.
-Pois são todos reciclaveis
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
