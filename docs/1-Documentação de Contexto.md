@@ -3,15 +3,14 @@
 Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
 
 ## Problema
-= Excesso de lixo nas ruas e areas verdes
 
-= Descarte de lixo eletronico em lugares errados
+A problematização sobre o descarte incorreto de lixo está relacionada aos impactos negativos causados pela má gestão dos resíduos sólidos. O descarte inadequado de lixo pode resultar em diversos problemas ambientais, sociais e de saúde pública.
 
-= Disperdicos de alimentos
+Em termos ambientais, o descarte incorreto de lixo pode contaminar o solo, os rios e os lençóis freáticos, afetando a qualidade da água e comprometendo os ecossistemas. Além disso, o acúmulo de lixo em locais inadequados pode gerar a proliferação de pragas e vetores de doenças, como ratos e mosquitos, aumentando o risco de epidemias.
 
-= Seletividade do lixo
+Do ponto de vista social, o descarte incorreto de lixo gera uma série de problemas nas comunidades, como a degradação visual e olfativa do ambiente, redução da qualidade de vida e desvalorização das áreas afetadas. Além disso, a falta de infraestrutura adequada para o descarte e tratamento de resíduos pode levar a problemas de exclusão social e desigualdade, afetando principalmente as populações mais vulneráveis.
 
-= Direcionamento de sobra de alimento
+Em relação à saúde pública, o descarte incorreto de lixo pode causar problemas respiratórios, dermatológicos e gastrointestinais devido à exposição a substâncias tóxicas presentes nos resíduos. Além disso, o acúmulo de lixo em áreas urbanas pode atrair vetores de doenças, aumentando o risco de transmissão de enfermidades como dengue, zika e chikungunya.
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
