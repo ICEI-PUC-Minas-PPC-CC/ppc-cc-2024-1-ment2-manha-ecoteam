@@ -21,8 +21,11 @@ Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o pr
 ## Objetivos
 
 = Conscientizar criancas e adolencentes sobre disperdicio com palestras 
+
 = Informar sobre descarte correto de lixo
+
 = Mostrar as consequencias sobre o excesso de lixo no mundo
+
 = Reutilizar e reaproveitar os lixos eletronicos como celulares, bateria, coisas do tipo.
 Pois são todos reciclaveis
  
@@ -32,8 +35,11 @@ Pois são todos reciclaveis
 ## Justificativa
 
 = A preservacao do planeta terra
+
 = Um problema que a longo prazo pode prejudicar a vida de todos
+
 = Devido a estimativa de aumento em 60% para 2050 é importante nos preocupar o mais rapido possivel
+
 = A maioria dos materias dos lixos eletronicos sao reutilizaveis, materias como metais e plasticos
 
 > **Links Úteis**:
@@ -42,6 +48,7 @@ Pois são todos reciclaveis
 ## Público-Alvo
 
 = Todas as idades
+
 = Criancas e adolecentes
 
 > **Links Úteis**:
