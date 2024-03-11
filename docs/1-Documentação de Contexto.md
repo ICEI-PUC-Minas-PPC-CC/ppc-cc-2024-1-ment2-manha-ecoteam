@@ -4,9 +4,13 @@ Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o pr
 
 ## Problema
 = Excesso de lixo nas ruas e areas verdes
+
 = Descarte de lixo eletronico em lugares errados
+
 = Disperdicos de alimentos
+
 = Seletividade do lixo
+
 = Direcionamento de sobra de alimento
 
 > **Links Úteis**:
