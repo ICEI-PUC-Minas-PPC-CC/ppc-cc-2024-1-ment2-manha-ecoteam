@@ -27,6 +27,11 @@ Conscientizar as crianças e adolescentes sobre o descarte correto do lixo, por 
 
 ## Justificativa
 
+Segundo o artigo publicado por Agostinho Vieira no site: projetocolabora, 16,5 milhões de brasileiros hoje não tem acesso a coleta de lixo na porta de casa, ou seja, um em cada doze brasileiros não dispõe desse serviço absolutamente essencial. Um contingente superior à população de Portugal e equivalente ao número de moradores do estado do Rio de Janeiro. 
+
+Este fato é sufciente para assustar e prejudicar muitos brasileiros, esta foi a nossa principal motivação para inciar um trabalho extencionista junto à comunidade para conscientizar e informar sobre os possíveis malefícios gerados pelo descarte incorreto do lixo.
+Assim como devemos estimular a implementação de políticas públicas eficientes, o estímulo à reciclagem e a participação ativa da sociedade são essenciais para enfrentar essa problemática e garantir um futuro mais sustentável.
+
 = A preservacao do planeta terra
 
 = Um problema que a longo prazo pode prejudicar a vida de todos
