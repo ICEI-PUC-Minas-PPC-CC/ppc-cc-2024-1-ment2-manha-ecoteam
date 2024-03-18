@@ -7,7 +7,7 @@
 ## Integrantes
 
 - Ana Beatriz dos Santos
-- Arthur Pádua
+- Artur Pádua
 - Diego Rodrigues
 - Enzo Batista
 - Gustavo Jacó
