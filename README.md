@@ -11,6 +11,7 @@
 - Diego Rodrigues
 - Enzo Batista
 - Gustavo Jáco
+- Tiago Henrique Faion Franchi
 
 ## Professor
 
