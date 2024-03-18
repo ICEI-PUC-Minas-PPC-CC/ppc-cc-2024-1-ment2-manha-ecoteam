@@ -1,6 +1,6 @@
 # Introdução
 
-O descarte inadequado de lixo gera problemas ambientais, sociais e de saúde. Contamina o solo e a água, atrai pragas e doenças, e prejudica a qualidade de vida das comunidades afetadas. Conscientizar crianças e adolescentes é essencial para promover práticas de descarte responsável. Dados mostram a urgência de ações para melhorar a gestão de resíduos no Brasil. Educação ambiental e políticas públicas eficientes são fundamentais para enfrentar essa problemática e garantir um futuro sustentável.
+O descarte inadequado de lixo gera problemas ambientais, sociais e de saúde. Contamina o solo e a água, atrai pragas e doenças, e prejudica a qualidade de vida das comunidades afetadas. Conscientizar crianças e adolescentes é essencial para promover práticas de descarte responsável. Dados mostram a urgência de ações para melhorar a gestão de resíduos no Brasil. Educação ambiental e políticas públicas eficientes são fundamentais para enfrentar essa problemática e garantir um futuro sustentável
 
 ## Problema
 
