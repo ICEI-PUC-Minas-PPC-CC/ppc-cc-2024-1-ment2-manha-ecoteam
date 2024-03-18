@@ -10,7 +10,7 @@ Exemplo:
 
 |**Frederico da Silva**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/frederico.jpg" width="200" height="200"/>|**Idade:** 16 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Estudante     |**Atribuições:** Estudante. 
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-ecoteam/blob/main/docs/img/frederico.jpg" width="200" height="200"/>|**Idade:** 16 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Estudante     |**Atribuições:** Estudante. 
 |**Motivações:**Ter um bairro mais limpo.  |**Frustações:** vizinhos descartam lixo incorretamente  |**Hobbies, história:** Aproveitar a natureza com seus amigos ao fim de semana.
 
 Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia um pouco mais sobre o assunto nos seguintes links:
