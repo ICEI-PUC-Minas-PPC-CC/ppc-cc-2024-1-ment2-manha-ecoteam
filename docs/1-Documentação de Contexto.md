@@ -32,22 +32,13 @@ Segundo o artigo publicado por Agostinho Vieira no site: projetocolabora, 16,5 m
 Este fato é sufciente para assustar e prejudicar muitos brasileiros, esta foi a nossa principal motivação para inciar um trabalho extencionista junto à comunidade para conscientizar e informar sobre os possíveis malefícios gerados pelo descarte incorreto do lixo.
 Assim como devemos estimular a implementação de políticas públicas eficientes, o estímulo à reciclagem e a participação ativa da sociedade são essenciais para enfrentar essa problemática e garantir um futuro mais sustentável.
 
-= A preservacao do planeta terra
-
-= Um problema que a longo prazo pode prejudicar a vida de todos
-
-= Devido a estimativa de aumento em 60% para 2050 é importante nos preocupar o mais rapido possivel
-
-= A maioria dos materias dos lixos eletronicos sao reutilizaveis, materias como metais e plasticos
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-= Todas as idades
-
-= Criancas e adolecentes
+O consumo excessivo de produtos e o desperdício têm impactos negativos na saúde e no meio ambiente, especialmente entre crianças e adolescentes. A exposição precoce a padrões consumistas promove uma mentalidade de descarte, contribuindo para a acumulação de resíduos e a degradação ambiental. Educar e capacitar os jovens para práticas de consumo responsável é essencial. Integrar a educação ambiental nas escolas e promover parcerias com a comunidade e empresas pode criar uma geração mais consciente e engajada na preservação do meio ambiente.
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
