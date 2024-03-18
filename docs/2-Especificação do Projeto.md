@@ -10,8 +10,8 @@ Exemplo:
 
 |**Ana Alves**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Idade:** 21 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Estudante de Engenharia química       |**Atribuições:** Estudante. 
-|**Motivações:** Deseja organi.  |**Frustações:** dificuldade para gerenciar a vida profissional e pessoal, pois, além de trabalhar fora, quando chega em casa tem de desempenhar os papeis de mãe, esposa e dona de casa. Ainda, o seu filho de 09 anos tem asma, portanto necessita de tratamento contínuo e atenção redobrada.   |**Hobbies, história:** almeja conseguir conciliar os diferentes papéis que exerce, pois atualmente está se sentindo extremamente sobrecarregada e por isso busca métodos para otimizar o seu tempo e esforço.
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Idade:** 16 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Estudante     |**Atribuições:** Estudante. 
+|**Motivações:**Ter um bairro mais limpo.  |**Frustações:** vizinhos descartam lixo incorretamente  |**Hobbies, história:** Aproveitar a natureza com seus amigos ao fim de semana.
 
 Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia um pouco mais sobre o assunto nos seguintes links:
 
