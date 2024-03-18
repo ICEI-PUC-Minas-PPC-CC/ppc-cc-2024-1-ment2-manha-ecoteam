@@ -10,7 +10,7 @@
 - Arthur Pádua
 - Diego Rodrigues
 - Enzo Batista
-- Gustavo Jáco
+- Gustavo Jacó
 - Tiago Henrique Faion Franchi
 
 ## Professor
