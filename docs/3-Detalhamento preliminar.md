@@ -45,3 +45,26 @@ Ainda não é necessário incluir, neste momento, o material de apoio a ser util
 |5| Soluções e boas práticas | 15 minutos | 
 |6| O papel de cada um de nós | 5 minutos |
 |7| O futuro do e-waste | 5 minutos | 
+
+
+Título da Palestra: "E-Waste: O Desafio do Descarte Incorreto de Lixo Eletrônico"
+
+Resumo:
+Nosso mundo está cada vez mais dependente da tecnologia, o que significa que estamos gerando uma quantidade cada vez maior de lixo eletrônico, também conhecido como e-waste. No entanto, o descarte inadequado desses dispositivos pode ter sérias consequências ambientais e para a saúde pública. Nesta palestra, exploraremos os impactos do descarte incorreto de lixo eletrônico e discutiremos soluções viáveis para lidar com esse desafio crescente.
+
+Tópicos a serem abordados:
+1. **O que é e-waste**: Definição e exemplos de lixo eletrônico, incluindo dispositivos como celulares, computadores, tablets, eletrodomésticos e equipamentos eletrônicos industriais.
+
+2. **Os impactos ambientais do e-waste**: Exploração dos efeitos nocivos do descarte incorreto de lixo eletrônico no meio ambiente, incluindo poluição do ar, do solo e da água, contaminação por metais pesados e danos à biodiversidade.
+
+3. **Os riscos para a saúde humana**: Discussão sobre os perigos que o e-waste representa para a saúde humana, incluindo exposição a substâncias tóxicas durante a manipulação e a reciclagem informal desses materiais.
+
+4. **Desafios na gestão do e-waste**: Análise dos obstáculos enfrentados na gestão adequada do e-waste, incluindo falta de infraestrutura de reciclagem, legislação inadequada e falta de conscientização pública.
+
+5. **Soluções e boas práticas**: Apresentação de soluções práticas para lidar com o e-waste, como programas de reciclagem, legislação mais rigorosa, incentivos para fabricação de produtos duráveis e educar o público sobre a importância do descarte responsável.
+
+6. **O papel de cada um de nós**: Exploração do papel que indivíduos, empresas e governos podem desempenhar na redução do e-waste por meio de práticas de consumo consciente, reciclagem adequada e apoio a iniciativas de gestão de resíduos eletrônicos.
+
+7. **O futuro do e-waste**: Reflexão sobre as tendências futuras do e-waste e a importância de adotar medidas preventivas hoje para evitar um aumento ainda maior desse problema no futuro.
+
+Esta palestra visa conscientizar e capacitar o público a tomar medidas concretas para reduzir o impacto do e-waste em nosso planeta, promovendo uma cultura de descarte responsável e sustentável.
