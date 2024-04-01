@@ -1,8 +1,12 @@
 # 1) Objetivos de Desenvolvimento Sustentável
 
-Os 17 objetivos de Desenvolvimento Sustentável defnidos pela ONU (Organização das Nações Unidas) para as cidades, como parte da Agenda 2023, abrangem diferentes temas relacionados a aspectos sociais e ambientais.
+12.5 Até 2030, reduzir substancialmente a geração de resíduos por meio da prevenção, redução, reciclagem e reuso
 
-Neste sentido, neste seção, seu grupo deverá contextualizar e justificar em qual dos 17 objetivos de Desenvolvimento Sustentável a temática do problema que seu grupo deseja resolver se encaixa.
+12.6 Incentivar as empresas, especialmente as empresas grandes e transnacionais, a adotar práticas sustentáveis e a integrar informações de sustentabilidade em seu ciclo de relatórios
+
+12.7 Promover práticas de compras públicas sustentáveis, de acordo com as políticas e prioridades nacionais
+
+12.8 Até 2030, garantir que as pessoas, em todos os lugares, tenham informação relevante e conscientização para o desenvolvimento sustentável e estilos de vida em harmonia com a natureza
 
 > Links úteis:
 > - [Os 17 Objetivos de Desenvolvimento Sustentável](https://brasil.un.org/pt-br/sdgs)
