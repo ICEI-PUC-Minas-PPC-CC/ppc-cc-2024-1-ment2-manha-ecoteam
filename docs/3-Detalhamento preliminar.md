@@ -38,11 +38,10 @@ Ainda não é necessário incluir, neste momento, o material de apoio a ser util
 
 |Aula   | Descrição do conteúdo a ser abordado  | Tempo necessário |
 |------|-----------------------------------------|----|
-|1| Introdução à lógica de programação | 30 minutos | 
-|2| Introdução ao funcionamento de um compilador   | 20 minutos |
-
-
-
-
-
-
+|1| O que é e-waste | 5 minutos | 
+|2| Os impactos ambientais do e-waste | 10 minutos |
+|3| Os riscos para a saúde humana | 10 minutos | 
+|4| Desafios na gestão do e-waste  | 5 minutos |
+|5| Soluções e boas práticas | 15 minutos | 
+|6| O papel de cada um de nós | 5 minutos |
+|7| O futuro do e-waste | 5 minutos | 
