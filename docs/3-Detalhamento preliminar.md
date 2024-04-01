@@ -47,11 +47,6 @@ Ainda não é necessário incluir, neste momento, o material de apoio a ser util
 |7| O futuro do e-waste | 5 minutos | 
 
 
-Título da Palestra: "E-Waste: O Desafio do Descarte Incorreto de Lixo Eletrônico"
-
-Resumo:
-Nosso mundo está cada vez mais dependente da tecnologia, o que significa que estamos gerando uma quantidade cada vez maior de lixo eletrônico, também conhecido como e-waste. No entanto, o descarte inadequado desses dispositivos pode ter sérias consequências ambientais e para a saúde pública. Nesta palestra, exploraremos os impactos do descarte incorreto de lixo eletrônico e discutiremos soluções viáveis para lidar com esse desafio crescente.
-
 Tópicos a serem abordados:
 1. **O que é e-waste**: Definição e exemplos de lixo eletrônico, incluindo dispositivos como celulares, computadores, tablets, eletrodomésticos e equipamentos eletrônicos industriais.
 
