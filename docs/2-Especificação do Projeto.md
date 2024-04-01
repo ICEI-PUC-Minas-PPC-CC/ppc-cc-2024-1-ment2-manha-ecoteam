@@ -34,8 +34,8 @@ Exemplo:
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Frederico da Silva | De uma natureza mais limpa | Aproveitar uma natureza mais bela com meus amigos. |
-|Fernando Rodrigues | Melhoras no zoneamento urbano | gerar uma boa qualidade de vida |
-|Marcela Pinheiro | Que a população faça um descarte consciente | viver em ambiênte mais saúdavel. |
+|Fernando Rodrigues | Melhoras no zoneamento urbano | Gerar uma boa qualidade de vida |
+|Marcela Pinheiro | Que a população faça um descarte consciente | Viver em ambiênte mais saúdavel. |
 
 
 
