@@ -21,7 +21,12 @@ Em relação à saúde pública, o descarte incorreto de lixo pode causar proble
 Conscientizar a população mais jovem por meio de palestras ministradas pelo grupo e informar sobre coleta seletiva e seus horários.
 
 *Desenvolver materiais didáticos e recursos visuais para apoio nas palestras e tornar o conteúdo mais atraente e interessante para o público-alvo.
-*
+*Instruir membros do grupo afim de realizar palestras de forma eficaz, garantindo que possuam conhecimento abrangente sobre coleta seletiva e habilidades de comunicação envolventes.
+*Realizar parcerias com instituições educacionais e comunitárias para aumentar o alcance das palestras e garantir que cheguem a um número significativo de jovens.
+*Avaliar regularmente o impacto das palestras por meio de questionários de avaliação preenchidos pelos participantes, feedback dos organizadores das instituições e observações diretas.
+*Manter um canal de comunicação aberto com a população jovem por meio das redes sociais e outros meios digitais, compartilhando informações sobre coleta seletiva, dicas de sustentabilidade e atualizações sobre eventos futuros.
+*Criar oportunidades para o envolvimento dos jovens em iniciativas de coleta seletiva, como eventos de limpeza de praia ou atividades de reciclagem comunitária, para incentivar a prática dos conceitos aprendidos nas palestras.
+*Estabelecer uma estratégia de seguimento após as palestras, fornecendo recursos adicionais, como folhetos informativos e links úteis, afim de manter o interesse e o compromisso da população jovem com a coleta seletiva.
 
  
 > **Links Úteis**:
