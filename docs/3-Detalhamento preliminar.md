@@ -1,5 +1,9 @@
 # 1) Objetivos de Desenvolvimento Sustentável
 
+12 Consumo e produção responsáveis; Garantir padrões de consumo e de produção sustentáveis
+
+*Principais objetivos:*
+
 12.5 Até 2030, reduzir substancialmente a geração de resíduos por meio da prevenção, redução, reciclagem e reuso
 
 12.6 Incentivar as empresas, especialmente as empresas grandes e transnacionais, a adotar práticas sustentáveis e a integrar informações de sustentabilidade em seu ciclo de relatórios
