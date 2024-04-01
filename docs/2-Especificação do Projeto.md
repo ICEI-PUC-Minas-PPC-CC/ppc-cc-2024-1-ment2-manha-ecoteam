@@ -15,7 +15,7 @@ Exemplo:
 
 |**Fernando Rodrigues**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-ecoteam/blob/main/docs/img/frederico.jpg" width="200" height="200"/>|**Idade:** 32 anos. **Naturalidade:** Belo Horizonte - Minas Gerais. **Ocupação:** Eletricista    |**Atribuições:** Estudante de engenharia eletríca 
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-ecoteam/blob/main/docs/img/fernando.jpg" width="200" height="200"/>|**Idade:** 32 anos. **Naturalidade:** Belo Horizonte - Minas Gerais. **Ocupação:** Eletricista    |**Atribuições:** Estudante de engenharia eletríca 
 |**Motivações:** Concluir sua graduação, para assim poder contribuir em projetos maiores, com razão profissional e também social.  |**Frustações:**  Tem sua casa alagada a cada grande chuva, devido a canais de escoamento obstruídos por lixo descartado incorretamente.  |**Hobbies, história:** Em seu tempo livre gosta de passar seu tempo junto a sua familia.
 
 
