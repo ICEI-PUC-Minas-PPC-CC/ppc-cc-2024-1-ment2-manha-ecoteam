@@ -1,5 +1,7 @@
 # 1) Objetivos de Desenvolvimento Sustentável
 
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-ecoteam/blob/main/docs/img/ods12.png" width="200" height="200"/>
+
 12 Consumo e produção responsáveis; Garantir padrões de consumo e de produção sustentáveis
 
 *Principais objetivos:*
