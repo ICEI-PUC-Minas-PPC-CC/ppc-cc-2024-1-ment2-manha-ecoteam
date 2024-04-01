@@ -20,28 +20,16 @@
 # 2) Detalhamento preliminar
 
 **Pautas a serem abordadas**
+
 Consumo consciente; 
+
 Descarte consciente;
+
 Orientação de descarte eletrônicos;
 
-## Projeto de Interface
+Nossa iniciativa visa alcançar não apenas os estudantes, mas também suas famílias e a comunidade em geral, estabelecendo uma rede de conscientização que permeie todos os aspectos da vida cotidiana. A educação sobre o descarte adequado de resíduos não só beneficia o ambiente local, mas também contribui para uma consciência global sobre a importância da sustentabilidade.
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
-
-Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
-
-Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
-
-## User Flow
-
-![Exemplo de UserFlow](img/userflow.jpg)
-
-Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
-
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
+Ao conscientizar os estudantes desde cedo sobre a importância do descarte correto de resíduos, estamos investindo no futuro sustentável da cidade e inspirando uma geração de líderes ambientalmente conscientes.
 
 ## Cronograma preliminar
 
@@ -52,11 +40,6 @@ Ainda não é necessário incluir, neste momento, o material de apoio a ser util
 |------|-----------------------------------------|----|
 |1| Introdução à lógica de programação | 30 minutos | 
 |2| Introdução ao funcionamento de um compilador   | 20 minutos |
-
-## Resultados obtidos com pesquisa de campo, reuniões e/ou entrevistas
-
-Nesta seção, deverão ser apresentados os registros das reuniões realizadas com representantes do público-alvo, os gráficos/tabelas com os resultados das pesquisas/entrevistas feitos e também, às conclusões que o grupo pode alcançar por meio destes artefatos.
-
 
 
 
