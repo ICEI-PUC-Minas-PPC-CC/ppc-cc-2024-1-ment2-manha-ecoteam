@@ -19,11 +19,10 @@
 
 # 2) Detalhamento preliminar
 
-Esta seção deverá ser adaptada a proposta do grupo, de forma que:
-a) Caso seu grupo vá desenvolver uma solução de software, as seções "projeto de interface" e "_user flow_" deverão ser feitas.
-b) Caso seu grupo vá desenvolver cursos/oficinas na PUC, ou na comunidade, um "cronograma preliminar" das atividades a serem realizadas deverá ser proposto.
-c) Caso seu grupo tenha realizado alguma pesquisa de campo, entrevistas ou reuniões com representantes do público-alvo, os registros das entrevistas/reuniões, os resultados obtidos e as conclusões encontradas deverão ser descritas aqui.
-Caso seu trabalho demanda outro tipo de detalhamento preliminar, os artefatos a serem entregues nesta etapa deverão ser alinhados junto com seu(sua) professor(a)
+**Pautas a serem abordadas**
+Consumo consciente; 
+Descarte consciente;
+Orientação de descarte eletrônicos;
 
 ## Projeto de Interface
 
