@@ -21,6 +21,7 @@ Em relação à saúde pública, o descarte incorreto de lixo pode causar proble
 Conscientizar a população mais jovem por meio de palestras ministradas pelo grupo e informar sobre coleta seletiva e seus horários.
 
 *Desenvolver materiais didáticos e recursos visuais para apoio nas palestras e tornar o conteúdo mais atraente e interessante para o público-alvo.
+*
 
  
 > **Links Úteis**:
