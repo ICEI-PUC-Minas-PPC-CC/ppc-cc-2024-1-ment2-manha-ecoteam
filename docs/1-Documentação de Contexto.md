@@ -18,8 +18,9 @@ Em relação à saúde pública, o descarte incorreto de lixo pode causar proble
 > - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
+Conscientizar a população mais jovem por meio de palestras ministradas pelo grupo e informar sobre coleta seletiva e seus horários.
 
-Conscientizar as crianças e adolescentes sobre o descarte correto do lixo, por meio de uma palestra que será ministrada pelo grupo e também será feito um site contendo os horários de coleta de lixo e agendamento de descarte na cidade de Poços de Caldas.
+*Desenvolver materiais didáticos e recursos visuais para apoio nas palestras e tornar o conteúdo mais atraente e interessante para o público-alvo.
 
  
 > **Links Úteis**:
