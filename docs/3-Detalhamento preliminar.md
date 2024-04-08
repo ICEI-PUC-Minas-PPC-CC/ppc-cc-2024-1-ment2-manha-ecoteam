@@ -22,6 +22,8 @@
 **Pautas a serem abordadas**
 
 *Consumo consciente; 
+- Explique a importância de consumir de forma consciente, levando em consideração os impactos sociais e ambientais.
+- Destaque práticas como a redução do consumo desnecessário, a preferência por produtos duráveis e de fontes sustentáveis, e a valorização de produtos locais e orgânicos.
 
 *Descarte consciente;
 - Eduque sobre a necessidade de descartar resíduos de forma responsável, evitando a poluição do meio ambiente e prevenindo danos à saúde pública.
