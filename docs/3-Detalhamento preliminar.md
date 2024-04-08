@@ -24,6 +24,8 @@
 *Consumo consciente; 
 
 *Descarte consciente;
+- Eduque sobre a necessidade de descartar resíduos de forma responsável, evitando a poluição do meio ambiente e prevenindo danos à saúde pública.
+- Enfatize a separação adequada de resíduos, como orgânicos, recicláveis e não recicláveis, e a utilização de métodos de descarte seguros e ambientalmente amigáveis.
 
 *Orientação de descarte eletrônicos;
 - Informe sobre os perigos da disposição incorreta de eletrônicos, como a contaminação por metais pesados e substâncias tóxicas.
