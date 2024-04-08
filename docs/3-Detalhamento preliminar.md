@@ -27,6 +27,7 @@
 
 *Orientação de descarte eletrônicos;
 - Informe sobre os perigos da disposição incorreta de eletrônicos, como a contaminação por metais pesados e substâncias tóxicas.
+- Sugira alternativas para o descarte adequado de eletrônicos, como a reciclagem em pontos específicos ou a doação para reutilização.
 
 Nossa iniciativa visa alcançar não apenas os estudantes, mas também suas famílias e a comunidade em geral, estabelecendo uma rede de conscientização que permeie todos os aspectos da vida cotidiana. A educação sobre o descarte adequado de resíduos não só beneficia o ambiente local, mas também contribui para uma consciência global sobre a importância da sustentabilidade.
 
