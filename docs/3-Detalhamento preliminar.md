@@ -21,15 +21,15 @@
 
 **Pautas a serem abordadas**
 
-*Consumo consciente; 
+*Consumo consciente*
 - Explique a importância de consumir de forma consciente, levando em consideração os impactos sociais e ambientais.
 - Destaque práticas como a redução do consumo desnecessário, a preferência por produtos duráveis e de fontes sustentáveis, e a valorização de produtos locais e orgânicos.
 
-*Descarte consciente;
+*Descarte consciente*
 - Eduque sobre a necessidade de descartar resíduos de forma responsável, evitando a poluição do meio ambiente e prevenindo danos à saúde pública.
 - Enfatize a separação adequada de resíduos, como orgânicos, recicláveis e não recicláveis, e a utilização de métodos de descarte seguros e ambientalmente amigáveis.
 
-*Orientação de descarte eletrônicos;
+*Orientação de descarte eletrônicos*
 - Informe sobre os perigos da disposição incorreta de eletrônicos, como a contaminação por metais pesados e substâncias tóxicas.
 - Sugira alternativas para o descarte adequado de eletrônicos, como a reciclagem em pontos específicos ou a doação para reutilização.
 - Destaque a importância da recuperação de materiais valiosos presentes nos eletrônicos, incentivando a economia circular e a redução do desperdício.
