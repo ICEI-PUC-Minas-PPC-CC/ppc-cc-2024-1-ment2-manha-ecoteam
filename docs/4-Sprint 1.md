@@ -1,6 +1,6 @@
-1. **O que é e-waste**:
+1. **O que é e-waste**: Gustavo Jacó
 
-2. **Os impactos ambientais do e-waste**:
+2. **Os impactos ambientais do e-waste**: Enzo Batista
 
 3. **Os riscos para a saúde humana**: 
 
@@ -10,4 +10,4 @@
 
 6. **O papel de cada um de nós**:
 
-7. **O futuro do e-waste**: 
+7. **O futuro do e-waste**: Gustavo Jacó
