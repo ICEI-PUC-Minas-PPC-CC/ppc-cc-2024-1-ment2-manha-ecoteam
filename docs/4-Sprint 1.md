@@ -1,5 +1,13 @@
-# Sprint 1
+1. **O que é e-waste**:
 
-Nesta seção, deverão ser incluídos todos os artefatos produzidos pertinentes à entrega referente à Sprint 1.
+2. **Os impactos ambientais do e-waste**:
 
-O detalhamento do que deverá será entregue, será definido em sala em conjunto com seu(sua) professor(a).
+3. **Os riscos para a saúde humana**: 
+
+4. **Desafios na gestão do e-waste**:
+
+5. **Soluções e boas práticas**: 
+
+6. **O papel de cada um de nós**:
+
+7. **O futuro do e-waste**: 
