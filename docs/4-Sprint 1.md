@@ -11,3 +11,5 @@
 6. **O papel de cada um de nós**:
 
 7. **O futuro do e-waste**: Gustavo Jacó
+
+Link dos Slides: https://gamma.app/docs/Descobrindo-o-Lixo-Eletronico-kba0flv0er5nxs6
