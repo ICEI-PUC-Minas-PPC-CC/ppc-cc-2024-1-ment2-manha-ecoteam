@@ -4,12 +4,12 @@
 
 2. **Os impactos ambientais do e-waste**: Enzo Batista
 
-3. **Os riscos para a saúde humana**: 
+3. **Os riscos para a saúde humana**: Ana Beatriz
 
-4. **Desafios na gestão do e-waste**:
+4. **Desafios na gestão do e-waste**: Artur Pádua
 
 5. **Soluções e boas práticas**: Tiago Franchi
 
-6. **O papel de cada um de nós**:
+6. **O papel de cada um de nós**: Diego Rodrigues
 
 7. **O futuro do e-waste**: Gustavo Jacó
