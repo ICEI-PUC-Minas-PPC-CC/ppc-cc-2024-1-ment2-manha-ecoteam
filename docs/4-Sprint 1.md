@@ -13,3 +13,5 @@
 6. **O papel de cada um de nós**: Diego Rodrigues
 
 7. **O futuro do e-waste**: Gustavo Jacó
+
+link: https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-ecoteam/blob/main/docs/Slides-Descobrindo-o-Lixo-Eletronico.pdf
