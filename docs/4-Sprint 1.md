@@ -17,3 +17,5 @@
 link: https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-ecoteam/blob/main/docs/Slides-Descobrindo-o-Lixo-Eletronico.pdf
 
 link: https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-ecoteam/blob/main/docs/img/Informativo.pdf
+
+link: https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-ecoteam/blob/main/docs/Descobrindo-o-Lixo-Eletronico.pptx
