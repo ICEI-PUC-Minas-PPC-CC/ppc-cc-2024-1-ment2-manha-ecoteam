@@ -14,8 +14,8 @@
 
 7. **O futuro do e-waste**: Gustavo Jacó
 
-link: https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-ecoteam/blob/main/docs/Slides-Descobrindo-o-Lixo-Eletronico.pdf
+Link dos Slides: https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-ecoteam/blob/main/docs/Slides-Descobrindo-o-Lixo-Eletronico.pdf
 
-link: https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-ecoteam/blob/main/docs/img/Informativo.pdf
+Link do cartaz informativo: https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-ecoteam/blob/main/docs/img/Informativo.pdf
 
-link: https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-ecoteam/blob/main/docs/Descobrindo-o-Lixo-Eletronico.pptx
+Link do PowerPoint: https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-ecoteam/blob/main/docs/Descobrindo-o-Lixo-Eletronico.pptx
