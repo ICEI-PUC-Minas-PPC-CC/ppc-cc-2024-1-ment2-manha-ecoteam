@@ -46,7 +46,7 @@ Ao conscientizar os estudantes desde cedo sobre a importância do descarte corre
 |2| Os impactos ambientais do e-waste | 10 minutos |
 |3| Os riscos para a saúde humana | 10 minutos | 
 |4| Desafios na gestão do e-waste  | 5 minutos |
-|5| Soluções e boas práticas | 15 minutos | 
+|5| Soluções e boas práticas | 10 minutos | 
 |6| O papel de cada um de nós | 5 minutos |
 |7| O futuro do e-waste | 5 minutos | 
 
@@ -60,7 +60,7 @@ Tópicos a serem abordados:
 
 4. **Desafios na gestão do e-waste**: Análise dos obstáculos enfrentados na gestão adequada do e-waste, incluindo falta de infraestrutura de reciclagem, legislação inadequada e falta de conscientização pública.
 
-5. **Soluções e boas práticas**: Apresentação de soluções práticas para lidar com o e-waste, como programas de reciclagem, legislação mais rigorosa, incentivos para fabricação de produtos duráveis e educar o público sobre a importância do descarte responsável.
+5. **Soluções e boas práticas**: Apresentação de soluções práticas para lidar com o e-waste, como programas de reciclagem, legislação mais rigorosa, incentivos para fabricação de produtos duráveis e educar o público sobre a importância do descarte responsável, além de tentar aproximar o público de hábitos mais sustentaveis e responsaveis.
 
 6. **O papel de cada um de nós**: Exploração do papel que indivíduos, empresas e governos podem desempenhar na redução do e-waste por meio de práticas de consumo consciente, reciclagem adequada e apoio a iniciativas de gestão de resíduos eletrônicos.
 
