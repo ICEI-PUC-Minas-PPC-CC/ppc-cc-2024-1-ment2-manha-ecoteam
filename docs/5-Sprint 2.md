@@ -6,11 +6,12 @@ Data: 21 de Junho de 2024
 Local: Escola Criativa, R. Dr. Francisco Faria Lobato, 152 - Centro
 
 Participantes:
-*Artur Carlo Costa Pádua
-*Gustavo Jacó
-*Enzo Batista Salerno
-*Diego Rodrigues Pereira Silva
-*Tiago Henrique Faion Franchi
+
+Artur Carlo Costa Pádua
+Gustavo Jacó
+Enzo Batista Salerno
+Diego Rodrigues Pereira Silva
+Tiago Henrique Faion Franchi
 
 
 Planejamento
