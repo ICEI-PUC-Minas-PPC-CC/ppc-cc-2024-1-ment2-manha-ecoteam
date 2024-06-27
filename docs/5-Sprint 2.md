@@ -5,7 +5,7 @@ Data e Local
 Data: 21 de Junho de 2024
 Local: Escola Criativa, R. Dr. Francisco Faria Lobato, 152 - Centro
 
-Participantes
+Participantes:
 Artur Carlo Costa Pádua
 Gustavo Jacó
 Enzo Batista Salerno
