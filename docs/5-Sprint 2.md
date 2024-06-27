@@ -14,7 +14,7 @@ Diego Rodrigues Pereira Silva,
 Tiago Henrique Faion Franchi.
 
 
-Planejamento
+Planejamento:
 
 O planejamento da oficina incluiu as seguintes etapas:
 
