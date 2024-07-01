@@ -47,6 +47,11 @@ Engajamento Inicial: No começo, alguns alunos mostraram desinteresse pelo tema.
 Recursos Audiovisuais: Houve um problema em organização do recurso audiovisual para a sequencia correta de apresentação.
 Tempo: O tempo planejado para a dinâmica de grupo foi curto, resultando em algumas partes da apresentação apressadas. Outro fator que tomou tempo da apresentação foi a viagem ate o local por conta de transito e vagas de estacionamento.
 
+Fotos
+![Ecoteam 4](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-ecoteam/assets/81312361/f29bf1d4-5642-4da9-b880-5fab66fe5738)
+![Ecoteam 3](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-ecoteam/assets/81312361/12b4bc47-3c4d-4922-9aa2-5dad2195c3b9)
+![Ecoteam 2](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-ecoteam/assets/81312361/c047307f-d8ef-409a-89b3-52b87bb25f99)
+![Ecoteam 1](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-ecoteam/assets/81312361/6a0db28f-6835-463d-85ea-e002e6b3848d)
 
 
 
